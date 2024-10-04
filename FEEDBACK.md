@@ -51,4 +51,4 @@
 ### Comments on the grading
 - I can not grade this until you attach a confirmation from your friend that she is satisfied with your work
 - You also need to address all the NO's in this feedback
-### Grade: N
+### Grade: R
